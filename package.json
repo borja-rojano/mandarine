@@ -1,0 +1,19 @@
+{
+  "name": "mandarine.js",
+  "version": "1.0.0",
+  "description": "A simple MEAN boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borja-rojano/mandarine.git"
+  },
+  "author": "Borja Rojano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borja-rojano/mandarine/issues"
+  },
+  "homepage": "https://github.com/borja-rojano/mandarine#readme"
+}
